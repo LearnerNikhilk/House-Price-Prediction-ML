@@ -1,4 +1,5 @@
-House Price Prediction using Machine Learning
+House Price Prediction using Machine Learning :  
+
 This project aims to predict residential real estate prices using various regression techniques. By analyzing features like square footage, number of rooms, and location, the model provides an estimated market value for properties.
 
 🚀 Features
