@@ -74,7 +74,7 @@ Output:
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/your-username/House-Price-Prediction-ML
+git clone https://github.com/LearnerNikhilk/House-Price-Prediction-ML
 cd House-Price-Prediction-ML
 pip install -r requirements.txt
 python app.py
