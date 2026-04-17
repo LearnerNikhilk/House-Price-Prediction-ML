@@ -58,9 +58,9 @@ Output:
 ---
 
 ## 🚀 Deployment
-🔗 Live Demo: [Add your deployed link here]
+🔗 Live Demo: [https://sweet-home-insights.lovable.app]
 
-(Deployed using Lovable.dev / Streamlit)
+(Deployed using Lovable.dev)
 
 ---
 
